@@ -16,6 +16,18 @@ It's an immensely useful tool. Find out more by [visiting the project on GitHub]
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
+
 ```
 code
 
