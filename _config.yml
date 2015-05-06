@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://justinkelly.github.io/poole
 paginate:         1
-baseurl:          /
+baseurl:          /poole/
 author:
   name:           Justin Kelly
   url:            https://twitter.com/mdo
@@ -20,4 +20,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/justinkelly/poole
